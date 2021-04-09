@@ -18,4 +18,3 @@ pretty_urls:
 deploy:
   type: git
   repo: https://github.com：tokgofail/loveChen.github.io.git
-  branch:master
