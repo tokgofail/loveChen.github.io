@@ -97,5 +97,5 @@ ignore:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repository: https://github.com/tokgofail/loveChen.github.io.git
+  repository: https://github.com/tokgofail/tokgofail.github.io.git
   branch: master
